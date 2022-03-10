@@ -1,2 +1,2 @@
 Here the readme
-Here the conflict
+Introduced for testing merge and atlassian source tree
